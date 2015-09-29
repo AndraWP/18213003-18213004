@@ -12,3 +12,6 @@ Draft Pengumpulan: <br>
 2. Tugas 2 - 15 September 2015<br>
    Pembuatan socket programming saat server memberikan respons berupa daftar nama file dan client dapat memilih file text yang diinginkan dan manampilkan isi file tersebut. Program server dapat menampilkan nama file apa saja yang tersedia di dalam folder bernama "File" dan kemudian menampilkan nama file tersebut di dalam terminal dan dikirimkan kepada client. Client dapat memilih file mana yang akan ditampilkan. Setelah melakukan request nama file dan server melakukan response, isi file dapat ditampilkan di terminal. <br>
    Nama File: client.py dan server.py<br>
+3. Tugas 3 - 29 Septermber 2015<br>
+   Pembuatan program crawling halaman web. Program ini dapat melakukan: (1) Menyimpan halaman web menjadi file html; (2) Menampilkan semua link yang terhubung pada halaman web tersebut; (3) Menyimpan semua link halaman web menjadi file html. <br>
+   Nama File: web.py
