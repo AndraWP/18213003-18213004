@@ -14,4 +14,7 @@ Draft Pengumpulan: <br><br>
    Nama File: client.py dan server.py<br><br>
 3. Tugas 3 - 29 Septermber 2015<br>
    Pembuatan program crawling halaman web. Program ini dapat melakukan: (1) Menyimpan halaman web menjadi file html; (2) Menampilkan semua link yang terhubung pada halaman web tersebut; (3) Menyimpan semua link halaman web menjadi file html. <br>
-   Nama File: web.py
+   Nama File: web.py<br><br>
+4. UTS - 29 Oktober 2015<br>
+   Pembuatan program untuk mengunduh semua image berformat jpg dalam sebuah webpage. Setiap image yang diunduh lalu secara otomatis di-backup ke folder yang lain dengan menggunakan rsync. Program dalam menampilkan semua link image dari webpage tertentu dan kemudan mendownload semua tautan gambar tersebut dan menyimpannya ke local. Program juga memiliki fungsi rsync untuk dapat melakukan backup semua gambar yang telah di download dan menyimpan ke folder lain. <br>
+   Nma File: rsync.py<br><br>
