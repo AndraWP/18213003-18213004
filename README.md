@@ -17,4 +17,5 @@ Draft Pengumpulan: <br><br>
    Nama File: web.py<br><br>
 4. UTS - 29 Oktober 2015<br>
    Pembuatan program untuk mengunduh semua image berformat jpg dalam sebuah webpage. Setiap image yang diunduh lalu secara otomatis di-backup ke folder yang lain dengan menggunakan rsync. Program dalam menampilkan semua link image dari webpage tertentu dan kemudan mendownload semua tautan gambar tersebut dan menyimpannya ke local. Program juga memiliki fungsi rsync untuk dapat melakukan backup semua gambar yang telah di download dan menyimpan ke folder lain. <br>
-   Nma File: rsync.py<br><br>
+   Selain menggunakan bahasa phyton, kami juga membuat menggunakan shell scripting dengan memanfaatkan fungsi wget untuk mendownload gambar dari suatu link tertentu. Setelah semua gambar berformat jpg tersebut terdownload, kemudian dilakukan rsync dan mengkopi semua file yang berekstensi jpg pada folder image backup.
+   Nama File: rsync.py dan rsync.sh<br><br>
