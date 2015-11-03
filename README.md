@@ -21,4 +21,4 @@ Draft Pengumpulan: <br><br>
    Nama File: rsync.py dan rsync.sh<br><br>
 5. Tugas 4 - 3 November 2015<br>
    Pembuatan program membuat PHP SOAP client dan server. Di dalam program ini, memungkinkan client untuk melakukan request dengan cara memanggil fungsi-fungsi yang ada pada server. Terdapat 3 fungsi yang dipanggil. Diantaranya ada fungsi untuk mengeluarkan input kata "Hello World!", fungsi untuk melakukan penjumlahan sederhana, dan fungsi untuk menampilkan data menggunakan query pada database yang diakses. Program ini mensimulasikan salah satu model web service yaitu SOAP. Server akan menyediakan hal yang direquest oleh client, dalam hal ini fungsi-fungsi program.<br>
-   Nama File: soap-client dan soap-server<br><br>
+   Nama File: soap-client.php dan soap-server.php<br><br>
