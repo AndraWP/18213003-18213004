@@ -1,7 +1,7 @@
 <?php
 
 # Name/NIM	: Jenika Sutojo/18213003 - Andra Wahyu Purnomo/18213004
-# Day, Date	: Thursday, 11 November 2015
+# Day, Date	: Thursday, 05 November 2015
 # File		: rest-client.php
 
 	if(isset($_GET["action"]) && isset($_GET["No_ID"]) && (isset($_GET["action"]) == "get_info")){
