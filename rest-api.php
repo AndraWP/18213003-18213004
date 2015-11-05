@@ -1,7 +1,7 @@
 <?php
 
 # Name/NIM	: Jenika Sutojo/18213003 - Andra Wahyu Purnomo/18213004
-# Day, Date	: Thursday, 11 November 2015
+# Day, Date	: Thursday, 05 November 2015
 # File		: rest-api.php
 
 	function get_info_by_id($No_ID){
